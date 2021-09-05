@@ -4,4 +4,4 @@
 A Flask app used to recieve movement commands and control a two wheeled robot.
 
 ## Related Repositories
-[**webRobot-Server**](https://github.com/jlrzhen/webRobot-UI) - A user interface for controlling a two-weeled robot.
+[**webRobot-UI**](https://github.com/jlrzhen/webRobot-UI) - A user interface for controlling a two-weeled robot.
