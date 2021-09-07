@@ -4,6 +4,9 @@ from markupsafe import escape
 
 speedEnabled = True
 
+# todo:
+# - add deployment instructions
+
 # GPIO setup
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
